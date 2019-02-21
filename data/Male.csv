@@ -1,4 +1,4 @@
-Gender,Film,Elf,Hobbit,Man
-Male,The Fellowship Of The Ring,971,3644,1995
-Male,The Two Towers,513,2463,3589
-Male,The Return Of The King,510,2673,2459
+Gender,Film,Dwarf,Elf,Hobbit,Man,Orc,Wizard
+Male,The Fellowship Of The Ring,431,971,3644,1995,27,2881
+Male,The Two Towers,521,513,2463,3589,230,1273
+Male,The Return Of The King,313,510,2673,2459,466,1807
